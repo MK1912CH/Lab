@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/0aa2135f8baca347.css",{"as":"style"}]
-0:["j_QCWwiHESJ4WtfT5JeLS",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0aa2135f8baca347.css","precedence":"next"}]],"$L3"]]]]
+0:["UlvLi_vABf3mjXenSt0xP",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0aa2135f8baca347.css","precedence":"next"}]],"$L3"]]]]
 4:HL["/_next/static/css/7be0fa92c298304f.css",{"as":"style"}]
 5:I{"id":7767,"chunks":["272:static/chunks/webpack-320cfcf823a9ebd5.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-883374ed2c3ed928.js"],"name":"default","async":false}
 6:I{"id":7920,"chunks":["272:static/chunks/webpack-320cfcf823a9ebd5.js","971:static/chunks/fd9d1056-4691c648476250ad.js","596:static/chunks/596-883374ed2c3ed928.js"],"name":"default","async":false}
