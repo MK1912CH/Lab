@@ -14,10 +14,10 @@
   display: flex; 
   flex-direction: column; 
   justify-content: center; 
-};
+}
 .yellowText {
   color: goldenrod; 
-};
+}
 
 .infoSection {
   display: flex;
